@@ -1,0 +1,13 @@
+C:\Users\m.unal\Desktop\CompareProjects\Compare\bin\Debug\netcoreapp3.1\Compare.exe
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfoInputs.cache
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfo.cs
+C:\Users\m.unal\Desktop\CompareProjects\Compare\bin\Debug\netcoreapp3.1\Compare.deps.json
+C:\Users\m.unal\Desktop\CompareProjects\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.json
+C:\Users\m.unal\Desktop\CompareProjects\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.dev.json
+C:\Users\m.unal\Desktop\CompareProjects\Compare\bin\Debug\netcoreapp3.1\Compare.dll
+C:\Users\m.unal\Desktop\CompareProjects\Compare\bin\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.csproj.CoreCompileInputs.cache
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.dll
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.genruntimeconfig.cache
+C:\Users\m.unal\Desktop\CompareProjects\Compare\obj\Debug\netcoreapp3.1\Compare.csprojAssemblyReference.cache
